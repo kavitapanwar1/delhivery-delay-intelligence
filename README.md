@@ -7,7 +7,7 @@ All shipment records in this repository are synthetic. The Delhivery name is use
 
 ## How to run
 
-Run these commands in order from a fresh clone, at the repository root. Python 3.10+ is recommended.
+Run these commands in order from a fresh clone, at the repository root. Python 3.11+ is recommended.
 
 ```bash
 python -m venv .venv
